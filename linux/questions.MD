@@ -1,4 +1,5 @@
+1. Что такое simlink\hardlink?
 <details>
-  <summary>Что такое протокол simlink?</summary>
-  <p>Path</p>
+  <summary>Ответ</summary>
+  <p>Simlink - ссылка, указывающая путь к файлу. Hardlink - ссылка, указывающея на индексный номер файла (inode) </p>
 </details>
