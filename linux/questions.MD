@@ -26,7 +26,7 @@
 6. Как при использовании команды echo получить код возврата 1?
 <details>
   <summary>Ответ</summary>
-  <p> 1. echo ; false
+  <p> 1. echo ; false \n
       2. echo "aboba" && false </p>
 </details>
 7. 
